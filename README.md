@@ -4,7 +4,7 @@
 # 197.FruitPictureInformationManagementSystem
 
 <p>抠: 206157502(sql文件)</p>
-<p>V：bishebao888888(sql文件)</p>
+<p>抠群: 983063232(sql文件)</p>
 
 <p><h1 align="center">197.水果图片信息管理系统</h1></p>
 
